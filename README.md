@@ -18,7 +18,7 @@ The Code Quality Evaluator is a Java and Kotlin code analysis tool designed to e
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/code-quality-evaluator.git
+    git clone https://github.com/RazvanLoghin1/CodeQualityEvaluator.git
     ```
 
 2. Open the project in your preferred Java-compatible IDE.
